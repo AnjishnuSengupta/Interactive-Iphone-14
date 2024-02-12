@@ -8,7 +8,7 @@
 
   </div>
 
-  ### Interactive Iphone 14 HTML Website
+  ### Interactive iPhone 14 HTML Website
 
   ![License](https://img.shields.io/github/license/OnePunchMan2718/Interactive-Iphone-14?color=598e3c&style=for-the-badge)
   ![Code Size](https://img.shields.io/github/languages/code-size/OnePunchMan2718/Interactive-Iphone-14?color=598e3c&style=for-the-badge)
